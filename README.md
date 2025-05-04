@@ -117,7 +117,7 @@ Video:
 - [Encoder-only model](https://youtu.be/f_mN-lVkZ9I)
 - [Huggingface tutorial: Fine-tuning encoder-only models for sequence classification](https://youtu.be/PdKl-wwA6nw)
 
-Notebooks: Huggingface
+Notebooks: [Huggingface](https://github.com/ai-builders/curriculum/blob/main/notebooks/05n_NLP_huggingface.ipynb)
 
 <a name="chapter6n"></a>
 ### Week 6 - บทที่ 6n - Large Language Model and the GPTs
